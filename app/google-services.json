@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "729848120175",
+    "firebase_url": "https://databasetestingfirebase.firebaseio.com",
+    "project_id": "databasetestingfirebase",
+    "storage_bucket": "databasetestingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729848120175:android:89dff81b867c083d",
+        "android_client_info": {
+          "package_name": "com.example.richmindep.databasetestingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729848120175-0us0dt1uohhvqplo43kohqfe0o4mkfhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.richmindep.databasetestingfirebase",
+            "certificate_hash": "fd91eaa37f44d5b16a6fa28e01c47320265291f7"
+          }
+        },
+        {
+          "client_id": "729848120175-q39iha82q4v8ilvi3p466m7ia6tja4eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_Ow9LXnKqs3Ik3-nZ5gGNDDSzcy5PX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729848120175-q39iha82q4v8ilvi3p466m7ia6tja4eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729848120175:android:b774d724dd73d1e6",
+        "android_client_info": {
+          "package_name": "com.example.richmindep.fbeg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729848120175-gl99micqn3jt0prc4ovvgqd5k6gbg0k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.richmindep.fbeg",
+            "certificate_hash": "dec1c8415363e1ef91a28c6d1f6fa48394ba7705"
+          }
+        },
+        {
+          "client_id": "729848120175-q39iha82q4v8ilvi3p466m7ia6tja4eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_Ow9LXnKqs3Ik3-nZ5gGNDDSzcy5PX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729848120175-q39iha82q4v8ilvi3p466m7ia6tja4eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
